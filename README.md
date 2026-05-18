@@ -1,12 +1,3 @@
----
-title: README
-emoji: 🏆
-colorFrom: green
-colorTo: indigo
-sdk: static
-pinned: false
-license: apache-2.0
----
 
 <div align="center">
 <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/64c0aaa4a8a2dcaa167ab5b3/tdo-7xOrIHU6DE4kCgu2N.png" width="150" alt="GMAI Logo">
